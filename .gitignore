@@ -90,4 +90,23 @@ ENV/
 
 # Mac folder attributes
 .DS_Store
+<<<<<<< HEAD
 labs/ex02/template/grid_plot.png
+=======
+
+# Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.fdb_latexmk
+*.synctex.gz
+*.tex
+>>>>>>> 25223da2f2c66595545cb2bb6760f6aa03a922e1
